@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "Prof. Smith",
+      "review": "Great professor, explains complex concepts clearly.",
+      "subject": "Mathematics",
+      "stars": 5
+    },
+    {
+      "professor": "Dr. Johnson",
+      "review": "Engaging lectures, but assignments can be challenging.",
+      "subject": "Physics",
+      "stars": 4
+    },
+    {
+      "professor": "Prof. Garcia",
+      "review": "Knowledgeable, but sometimes moves too fast through material.",
+      "subject": "Chemistry",
+      "stars": 3
+    },
+    {
+      "professor": "Dr. Lee",
+      "review": "Excellent teacher, always available for extra help.",
+      "subject": "Biology",
+      "stars": 5
+    },
+    {
+      "professor": "Prof. Brown",
+      "review": "Tough grader, but you'll learn a lot.",
+      "subject": "History",
+      "stars": 4
+    },
+    {
+      "professor": "Dr. Davis",
+      "review": "Passionate about the subject, makes classes interesting.",
+      "subject": "Literature",
+      "stars": 5
+    },
+    {
+      "professor": "Prof. Wilson",
+      "review": "Fair and approachable, good at explaining difficult concepts.",
+      "subject": "Computer Science",
+      "stars": 4
+    },
+    {
+      "professor": "Dr. Taylor",
+      "review": "Engaging discussions, but heavy workload.",
+      "subject": "Philosophy",
+      "stars": 3
+    },
+    {
+      "professor": "Prof. Anderson",
+      "review": "Dry lectures, but very knowledgeable.",
+      "subject": "Economics",
+      "stars": 3
+    },
+    {
+      "professor": "Dr. Martinez",
+      "review": "Inspiring teacher, makes you want to learn more.",
+      "subject": "Psychology",
+      "stars": 5
+    },
+    {
+      "professor": "Prof. Thompson",
+      "review": "Clear explanations, fair exams.",
+      "subject": "Sociology",
+      "stars": 4
+    },
+    {
+      "professor": "Dr. White",
+      "review": "Challenging course, but very rewarding.",
+      "subject": "Engineering",
+      "stars": 4
+    },
+    {
+      "professor": "Prof. Harris",
+      "review": "Supportive and patient, great for beginners.",
+      "subject": "Art",
+      "stars": 5
+    },
+    {
+      "professor": "Dr. Clark",
+      "review": "Interesting material, but disorganized lectures.",
+      "subject": "Anthropology",
+      "stars": 3
+    },
+    {
+      "professor": "Prof. Lewis",
+      "review": "Tough but fair, prepares you well for advanced courses.",
+      "subject": "Statistics",
+      "stars": 4
+    },
+    {
+      "professor": "Dr. Walker",
+      "review": "Enthusiastic teacher, makes learning fun.",
+      "subject": "Music",
+      "stars": 5
+    },
+    {
+      "professor": "Prof. Hall",
+      "review": "Knowledgeable, but not always clear in explanations.",
+      "subject": "Political Science",
+      "stars": 3
+    },
+    {
+      "professor": "Dr. Young",
+      "review": "Excellent at relating course material to real-world examples.",
+      "subject": "Business",
+      "stars": 4
+    },
+    {
+      "professor": "Prof. King",
+      "review": "Demanding but fair, you'll learn a lot if you put in the effort.",
+      "subject": "Law",
+      "stars": 4
+    },
+    {
+      "professor": "Dr. Wright",
+      "review": "Passionate about the subject, but can be intimidating.",
+      "subject": "Geology",
+      "stars": 3
+    }
+  ]
+}

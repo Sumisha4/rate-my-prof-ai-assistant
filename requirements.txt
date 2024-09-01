@@ -1,0 +1,8 @@
+conda create -n rag python=3.10.4 
+conda activate rag
+pip install python-dotenv pinecone-client
+pip install "pinecone-client[grpc]"
+pip install pandas
+pip install -q -U google-generativeai
+npm install @mui/material @emotion/react @emotion/styled @pinecone-database/pinecone @vercel/analytics
+npm install @google/generative-ai
